@@ -1,0 +1,7 @@
+{
+  "name": "MDN Web Security Practical Guide",
+  "description": "KSec: Auditor de seguridad de servidores web y cabeceras HTTP basado en los estándares de Mozilla Observatory y las guías prácticas de MDN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
